@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Walkr Design Principles"
-date:   2015-11-30
+date:   2015-11-27
 ---
 Principles Involved:
 
