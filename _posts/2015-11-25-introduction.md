@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Walkr Introduction"
-date:   2015-11-30
+date:   2015-11-25
 ---
 Goal: An application/foundation to encourage everyday people to get out and move around — users would be “walkers” and/or “donors”. The distance that walkers walk (or roll, self-propelled) is recorded (via GPS?) and donors would donate money to the foundation based on the number of miles walked (at a rate per mile of their choosing?).
 
